@@ -1,10 +1,8 @@
 # Nano-Euclidean-Sequencer
-Eurorack adaption of an original kosmo module by instructables.com/member/ljbrackney. Current code is operational but needs some fine tuning.   
+Build of KeLaiFu's Nano-Euclidean-Sequencer.
+Illuminated pushbuttons and toggle switch are different.
 
-![alt text](https://github.com/KeLaiFu/Nano-Euclidean-Sequencer/blob/main/euclid01.jpg)
+![alt text](https://github.com/dlakwi/Nano-Euclidean-Sequencer/blob/main/Euclidean_Sequencer_front.jpg)
+![alt text](https://github.com/dlakwi/Nano-Euclidean-Sequencer/blob/main/Euclidean_Sequencer_left.jpg)
+![alt text](https://github.com/dlakwi/Nano-Euclidean-Sequencer/blob/main/Euclidean_Sequencer_right.jpg)
 
-Current Status:
-Hardware - finished.
-Software - almost finished.
-
-NOTE! If anyone wants to build this, please post a pull request or whatever they are here and I will dig up the latest firmware. 
